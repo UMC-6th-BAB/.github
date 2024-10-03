@@ -58,7 +58,11 @@
 
 ### OAuth를 활용한 소셜 로그인 (학생 / 사장) <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/afa8c86c-517d-4d48-b6ec-824da7d317cb">
+
+<br>
+
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/bb4e27ba-de36-4880-9e0d-bd78aa993c9f">
 
 <br>
 
