@@ -68,49 +68,43 @@
 
 ### 메인 지도 화면 <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/1ad031fe-17bb-4390-93cf-2aa849a51510">
 
 <br>
 
 ### 학생 대학 설정 <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/02468c01-3088-4bf0-878a-ae5cbac3cfa9">
 
 <br>
 
 ### 학생 오늘의 할인 식당 <br>
 
-<img width="1200" alt="image" src="">
-
-<br>
-
-### 사장님 가게 추가 <br>
-
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/f3eb4b1b-eaf0-4838-b419-daaed4523e86">
 
 <br>
 
 ### OCR을 사용하여 사업자 등록증에서 데이터 추출 <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/25929499-bd08-4b84-988f-24f6a98a5e03">
 
 <br>
 
 ### 사장님 할인 추가 <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/522c1321-fae2-4ddf-b251-368d1fdff014">
 
 <br>
 
 ### 가게 상세 페이지 <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/903251f2-9d2a-4972-bea3-32c2caedac82">
 
 <br>
 
 ### 메뉴 검색 <br>
 
-<img width="1200" alt="image" src="">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/fc2a856c-db20-42e6-aae8-c6ec50bc815c">
 
 <br>
 
