@@ -56,9 +56,58 @@
 
 <br>
 
-### OAuth를 활용한 소셜 로그인 <br>
+### OAuth를 활용한 소셜 로그인 (학생 / 사장) <br>
 
 <img width="1200" alt="image" src="">
+
+<br>
+
+### 메인 지도 화면 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### 학생 대학 설정 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### 학생 오늘의 할인 식당 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### 사장님 가게 추가 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### OCR을 사용하여 사업자 등록증에서 데이터 추출 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### 사장님 할인 추가 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### 가게 상세 페이지 <br>
+
+<img width="1200" alt="image" src="">
+
+<br>
+
+### 메뉴 검색 <br>
+
+<img width="1200" alt="image" src="">
+
 <br>
 
 ## 📹 [Demo]()
