@@ -40,6 +40,7 @@
 
 <br>
 <br>
+
 ## 🛠️ System Architecture
 
 <img width="1212" alt="image" src="https://github.com/user-attachments/assets/c800e846-8f2f-4526-b84b-50c75113e280">
