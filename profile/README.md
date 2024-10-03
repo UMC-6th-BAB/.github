@@ -137,12 +137,10 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/slf4j-6DB33F?style=for-the-badge&logo=slf4j&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
@@ -150,14 +148,15 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon%20rds&logoColor=black">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GitHub Actions%20rds&logoColor=black">
 </p>
 
 ```
 - Frontend: React, Typescript, Styled-components, Zustand
-- Backend : Springboot, redis, Spring Security, JPA, JUnit5, Slf4j
+- Backend : Springboot, redis, JPA, Slf4j
 - Web Server: Nginx
 - Database: AWS RDS MySQL
-- Deployment: Docker, AWS EC2, AWS S3 bucket
+- Deployment: Docker, AWS EC2, AWS S3 bucket, Github Actions
 ```
 
 <br>
