@@ -125,13 +125,13 @@
 
 <img width="1212" alt="image" src="https://github.com/user-attachments/assets/af22a4a0-0bd7-4dcf-b346-f453f9530dad">
 </br>
+<br>
 <p align="center">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img alt="Styled-Components" src="https://img.shields.io/badge/Styled Components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/zustand-3578E5?style=for-the-badge&logo=zustand&logoColor=white" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -153,7 +153,7 @@
 </p>
 
 ```
-- Frontend: React, Vite, Styled-components
+- Frontend: React, Typescript, Styled-components, Zustand
 - Backend : Springboot, redis, Spring Security, JPA, JUnit5, Slf4j
 - Web Server: Nginx
 - Database: AWS RDS MySQL
