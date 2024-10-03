@@ -112,10 +112,10 @@
 
 ## 📹 [Demo]()
 
-(학생 로그인) <br>
+(학생 로그인 유튜브 영상) <br>
 [![Video Label](http://img.youtube.com/vi/DkrQaml-2WA/0.jpg)](https://youtu.be/DkrQaml-2WA)
 
-(사장님 로그인) <br>
+(사장님 로그인 유튜브 영상) <br>
 [![Video Label](http://img.youtube.com/vi/S7-9VPi3koM/0.jpg)](https://youtu.be/S7-9VPi3koM)
 
 <br>
